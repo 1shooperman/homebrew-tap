@@ -1,8 +1,8 @@
 class CliTools < Formula
   desc "Shell utilities for git hygiene, GPG cache warming, and Claude plugin analysis"
   homepage "https://github.com/1shooperman/cli-tools"
-  url "https://github.com/1shooperman/cli-tools/archive/refs/tags/v1.1.1.tar.gz"
-  sha256 "86a42b19086e2b38e1561a8f6e747f675dafc043c3ece78fa19e2ae3550a927a"
+  url "https://github.com/1shooperman/cli-tools/archive/refs/tags/v1.1.2.tar.gz"
+  sha256 "fcdd57174fcd7fa4945005612a22ebb63cc6fc338cfbb1a5abb008eb2939afe3"
   license "MIT"
 
   def install
