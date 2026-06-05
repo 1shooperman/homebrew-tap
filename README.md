@@ -10,6 +10,14 @@ Homebrew tap for [1shooperman](https://github.com/1shooperman).
 
 A [tap](https://docs.brew.sh/Taps) is a third-party repository of Homebrew formulae. Tapping a repo lets you install packages that aren't in the official Homebrew core.
 
+## Trusting this tap
+
+Homebrew may warn that this tap is untrusted. To silence it:
+
+```sh
+brew trust --tap 1shooperman/tap
+```
+
 ## How do I install packages from here?
 
 Install a package directly (tap is added automatically):
